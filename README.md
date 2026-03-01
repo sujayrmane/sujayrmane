@@ -1,6 +1,5 @@
-
 ## 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/sujayrmane/sujayrmane/blob/output/github-contribution-grid-snake.svg" />
 </p>
